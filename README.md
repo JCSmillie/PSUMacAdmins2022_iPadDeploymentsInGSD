@@ -26,5 +26,5 @@ https://drive.google.com/file/d/1BkoAv1usf331B6X8Hkz1GSzZFoqZSprc
 
 
 Links to Jennifer Czyzewski Student presentations:
- - https://docs.google.com/presentation/d/e/2PACX-1vQAo8L1LcXpNiYIlQL4Bjil3ySryHtVBzEvqwdVPG69TQ65ZipjtHswd1nwd9LOYhQvtvwoDvLpl6VR/pub?start=true&loop=false&delayms=3000
- - https://www.canva.com/design/DAFDhLifaK0/LOBcVvJxLocYxqfmtw2cCQ/view?utm_content=DAFDhLifaK0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+ - [iPad Care for Students](https://docs.google.com/presentation/d/e/2PACX-1vQAo8L1LcXpNiYIlQL4Bjil3ySryHtVBzEvqwdVPG69TQ65ZipjtHswd1nwd9LOYhQvtvwoDvLpl6VR/pub?start=true&loop=false&delayms=3000)
+ - [Internet Safety for Middle School Students](https://www.canva.com/design/DAFDhLifaK0/LOBcVvJxLocYxqfmtw2cCQ/view?utm_content=DAFDhLifaK0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
