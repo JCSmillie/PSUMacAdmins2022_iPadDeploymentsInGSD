@@ -8,7 +8,7 @@ This presentation was originally given on July 7th, 2022 virtually for PSU MacAd
 The slides from the Keynote will be posted AFTER the presentation (same day.)  This is because there are a few things we tweaked right up to the minute before we presented!
 
 Link to MOSBasic Repo-> https://github.com/JCSmillie/MOSBasic \
-***The Public version of Shake N' Bake can also be found in this repo***
+***The Public version of Shake N' Bake can also be found in this repo in the extras folder.***
 
 
 Link to Misc Mosyle API Reference Script Repo-> https://github.com/JCSmillie/GSDMosyleAPI_Scripts \
